@@ -1,0 +1,17 @@
+{
+    "1": {
+        "title": "Batch Variables",
+        "description": "Learn the basics of Batch Variables, its usage and benefits.",
+        "tags": ["course","batch","variables"]
+    },
+    "2": {
+        "title": "Batch Function",
+        "description": "Learn the basics of Batch Functions, its usage and benefits.",
+        "tags": ["course","batch","functions"]
+    },
+    "3": {
+        "title": "VBS Netcat Clone",
+        "description": "VBS Netcat Clone using NodeJS Server and Batch Client.",
+        "tags": ["projects","vbs","batch","nodejs","hacking"]
+    }
+}

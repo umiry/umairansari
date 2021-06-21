@@ -1,0 +1,33 @@
+
+#media_viewer {
+    position: fixed;
+    overflow-y: hidden;
+    overflow-x: auto;
+    display: none;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 5;
+    img, iframe {
+        height: 100%;
+        max-height: 480px;
+        margin: auto;
+    }
+    iframe {
+        width: 100%;
+        max-width: 852px;
+        outline: none;
+        border: none;
+    }
+}
+#media_close {
+    position: absolute;
+    display: none;
+    top: 10px;
+    right: 10px;
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    z-index: 5;
+}
